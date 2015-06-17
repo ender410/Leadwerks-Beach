@@ -1,0 +1,15 @@
+//Leadwerks Material File
+
+blendmode=1
+castshadows=1
+zsort=1
+cullbackfaces=1
+depthtest=1
+depthmask=0
+diffuse=0.250980407,0.250980407,0.250980407,1.00000000
+specular=0.501960814,0.501960814,0.501960814,0.501960814
+alwaysuseshader=0
+drawmode=-1
+
+shader="shaders\particles\default.shader"
+texture0=".\smoke_particle.tex"

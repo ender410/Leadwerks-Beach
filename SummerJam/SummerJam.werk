@@ -1,0 +1,54 @@
+Author="
+MainSourceFile=""
+MultiLineCommentOpenToken="//"
+SingleLineCommentToken="//"
+CommandLine=""
+Copyright=""
+WindowsPublishPath=""
+AndroidPublishPath=""
+iOSPublishPath=""
+MacOSPublishPath=""
+Template="Blank Project"
+AppID=0
+DepotID=0
+WorkshopItem
+{
+	fileid=401648279
+	title="SkyBox Pack"
+	datemodified=1425320013
+	files
+	{
+		"Materials/Sky/CloudyLightRays.tex"
+		"Materials/Sky/DarkStormy.tex"
+		"Materials/Sky/FullMoon.tex"
+		"Materials/Sky/LICENSE.txt.lua"
+		"Materials/Sky/README.txt.lua"
+		"Materials/Sky/SunSet.tex"
+		"Materials/Sky/ThickCloudsWater.tex"
+		"Materials/Sky/TropicakSunnyDay.tex"
+		"Materials/Sky/CloudyLightRays.tex.meta"
+		"Materials/Sky/DarkStormy.tex.meta"
+		"Materials/Sky/FullMoon.tex.meta"
+		"Materials/Sky/SunSet.tex.meta"
+		"Materials/Sky/ThickCloudsWater.tex.meta"
+		"Materials/Sky/TropicakSunnyDay.tex.meta"
+	}
+}
+WorkshopItem
+{
+	fileid=430188604
+	title="Lifebelt"
+	datemodified=1429726743
+	files
+	{
+		"Lifebelt/Lifebelt.mdl"
+		"Lifebelt/lifebelt.phy"
+		"Lifebelt/lifebeltonetexture.mat"
+		"Lifebelt/LifebeltOneTexture.tex"
+		"Lifebelt/lifebeltonetexture_dot3.tex"
+		"Lifebelt/lifebelt.mdl.meta"
+		"Lifebelt/lifebeltonetexture.mat.meta"
+		"Lifebelt/LifebeltOneTexture.tex.meta"
+		"Lifebelt/lifebeltonetexture_dot3.tex.meta"
+	}
+}

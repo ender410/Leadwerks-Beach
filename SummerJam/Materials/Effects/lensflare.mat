@@ -1,0 +1,16 @@
+//Leadwerks Material File
+
+blendmode=3
+castshadows=0
+zsort=1
+cullbackfaces=1
+depthtest=0
+depthmask=0
+diffuse=1.00000000,1.00000000,1.00000000,1.00000000
+specular=0.501960814,0.501960814,0.501960814,0.501960814
+alwaysuseshader=1
+mappingscale=1.00000000,1.00000000,1.00000000
+drawmode=4
+
+shader="Shaders/Model/diffuse.shader"
+texture0="./lensflare.tex"
